@@ -19,3 +19,11 @@ Aspiring Digital IC design Engineer | RTL Design | Computer Architecture | Hardw
 ### Badges
 
 <a href="https://github.com/sakshamgdeveloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgdeveloper&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/sakshamgdeveloper/sakshamgdeveloper/output/github-snake-dark.svg" alt="Snake animation" />
+</p></p>
+
+<br clear="both">
